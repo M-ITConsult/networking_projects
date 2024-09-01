@@ -10,7 +10,7 @@ These projects demonstrates a basic network setup in Cisco Packet Tracer. The se
 
 [Project 1](https://github.com/M-ITConsult/networking_projects/tree/main/04_Network_Access/Project_1)
 
-[Project 2](https://linktodocumentation)
+[Project 2](https://github.com/M-ITConsult/networking_projects/tree/main/04_Network_Access/Project_2)
 
 
 
