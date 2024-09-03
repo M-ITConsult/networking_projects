@@ -16,8 +16,8 @@ Welcome to the Networking Projects repository! This repository contains various 
 4. **[Cisco Packet Tracer Projects](./04_Network_Access)**  
    These projects demonstrates a basic network setup in Cisco Packet Tracer. The setup will allow the two computers to communicate with each other over the network.
 
-<!-- 5. **[HTTP Proxy Server](./projects/http-proxy-server)**  
-   A project that implements an HTTP proxy server. It intercepts web traffic, filters content, and caches responses to improve browsing efficiency. -->
+5. **[Cisco Packet Tracer Network Simulation](./Final_Project)**  
+   This project is a network simulation created using Cisco Packet Tracer.
 
 ---
 
