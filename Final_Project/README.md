@@ -14,6 +14,8 @@ The network consists of the following components:
 - **One Server (Server0):** A server hosting a webpage that can be accessed via a custom DNS name.
 - **One Cloud (Cloud0):** Represents the internet connection. It allows one of the PCs to access external websites.
 
+![Alt text](https://res.cloudinary.com/dceb4nzy9/image/upload/v1725373458/Screenshot_2024-09-03_162105_tegsgc.png)
+
 ## Key Features
 
 1. **Local Network Configuration:**
@@ -27,6 +29,8 @@ The network consists of the following components:
 3. **DNS Configuration:**
    - A DNS service is configured on the server (Server0).
    - The DNS service resolves the domain name `www.cisco.com` to the IP address of the server, allowing PCs to access a hosted webpage using this domain name.
+
+   ![Alt text](https://res.cloudinary.com/dceb4nzy9/image/upload/v1725373458/Screenshot_2024-09-03_162144_sx8rgf.png)
 
 4. **Web Server:**
    - A basic web page is hosted on the server, accessible via the DNS name `www.cisco.com`.
@@ -47,6 +51,9 @@ The network consists of the following components:
 3. **Access the Webpage:**
    - Open a web browser on any of the PCs.
    - Enter `www.cisco.com` in the address bar to access the web page hosted on `Server0`.
+
+   ![Alt text](https://res.cloudinary.com/dceb4nzy9/image/upload/v1725373458/Screenshot_2024-09-03_162131_va4gkg.png)
+
 
 4. **Printer Test:**
    - Ping to the printer with any pcs.
